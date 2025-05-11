@@ -1,0 +1,22 @@
+======GAME STRUK======
+name          :kiko
+genre game    :2
+how many copy :5
+diskon        :30.0
+the price     :60
+clock         :07 05 2025 09:39:19
+======THANK YOU============GAME STRUK======
+name          :likok
+genre game    :2
+how many copy :5
+diskon        :30.0
+the price     :270.0
+clock         :07 05 2025 09:40:17
+======THANK YOU============GAME STRUK======
+name          :pantek
+genre game    :3
+how many copy :10
+diskon        :50.0
+the price     :450.0
+clock         :07 05 2025 09:40:51
+======THANK YOU======

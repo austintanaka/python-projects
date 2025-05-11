@@ -1,0 +1,1 @@
+====== INVENTORY SYSTEM ======name : pen stock : 80price : 200
